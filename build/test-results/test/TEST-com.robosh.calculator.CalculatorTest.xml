@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.robosh.calculator.CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-03-13T14:02:21" hostname="EPUAKYIW039B" time="0.005">
+  <properties/>
+  <testcase name="sum should return 0" classname="com.robosh.calculator.CalculatorTest" time="0.003"/>
+  <testcase name="sum should return -20" classname="com.robosh.calculator.CalculatorTest" time="0.0"/>
+  <testcase name="sum should return 10" classname="com.robosh.calculator.CalculatorTest" time="0.0"/>
+  <testcase name="sum should return 20" classname="com.robosh.calculator.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
