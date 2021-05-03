@@ -10,7 +10,7 @@ class CalculatorTest {
     @Test
     fun `sum should return 20`() {
         val result = subject.sum(10, 10)
-        assertEquals(result, 20)
+        assertEquals(result, 25)
     }
 
     @Test
